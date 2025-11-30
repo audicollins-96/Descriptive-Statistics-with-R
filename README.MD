@@ -1,4 +1,4 @@
-##Descriptive Analysis of Health Data
+#Descriptive Analysis of Health Data
 
 This is a summary of my descriptive analysis of the **Whitehall FoSSA Study**, a simulated dataset inspired by the original Whitehall Study of Civil Servants. The dataset contains information on **4,327 participants** followed from 1997 to 2005, focusing on cardiovascular risk factors and mortality.
 
